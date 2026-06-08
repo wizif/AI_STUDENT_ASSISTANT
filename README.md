@@ -17,7 +17,7 @@
 </div> 
 
 ---
-
+.
 ## 📌 About WiseMate
 
 **WiseMate** helps students manage learning, planning, and productivity in one unified platform.  
