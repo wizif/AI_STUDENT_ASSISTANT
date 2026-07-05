@@ -9,7 +9,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)](https://mermaid.js.org/)
-
+ 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Tech Stack](#-tech-stack)
 .
 <img width="1307" height="1059" alt="image" src="https://github.com/user-attachments/assets/0131a254-96fc-43a2-a76f-88190a41c0a4" />
